@@ -15,7 +15,7 @@ It is designed to stay small and direct:
 
 > **Yoru Series**
 >
-> A family of lightweight utility libraries for STM32 HAL. Each library can be used independently or combined as needed.
+> Related lightweight utility libraries for STM32 HAL.
 >
 > | Library | Role |
 > | --- | --- |
@@ -176,4 +176,3 @@ If you only want your own hook handling, keep:
 - panic reporting in impossible branches
 - unreachable markers in state machines
 - hook-based fault reporting without binding to one logger
-
